@@ -40,7 +40,7 @@ Create beautiful user interface to interact with people using HTML,CSS & PHP.
 ---
 [![Screenshot-76.png](https://i.postimg.cc/VkJmc29H/Screenshot-76.png)](https://postimg.cc/FYX2yWBj)
 ---
-## To-Do
+## Importants
 
 * Install XAMPP server on your desktop.
 * Start both of these modules "Apache" & "MySQL".
